@@ -4,7 +4,7 @@
 
 ### About me:
   - 🌱 Beginner designer and front-end developer
-  - 🎓 2nd year student of SibSUTIS
+  - 🎓 3rd year student of SibSUTIS
   - 🎮 Like to play computer [games](https://steamcommunity.com/id/Minory54/)
 
 ### Languages and Tools:
@@ -12,6 +12,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxhM3dzc3FpYjZxbWY1bXoycGJ3cXh5Z250NWs4MTZhYzNqNmlnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OUSNyRQoAldC5daL43/giphy.gif" width="80"></p>
